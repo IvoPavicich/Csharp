@@ -1,0 +1,14 @@
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\bin\Debug\TerrenosNuvos.exe.config
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\bin\Debug\TerrenosNuvos.exe
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\bin\Debug\TerrenosNuvos.pdb
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.exe
+C:\Users\I-V-O\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.pdb
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.csprojAssemblyReference.cache
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.csproj.CoreCompileInputs.cache
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.exe
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\obj\Debug\TerrenosNuvos.pdb
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\bin\Debug\TerrenosNuvos.exe.config
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\bin\Debug\TerrenosNuvos.exe
+G:\source\repos\TerrenosNuvos\TerrenosNuvos\bin\Debug\TerrenosNuvos.pdb

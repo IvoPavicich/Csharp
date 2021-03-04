@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AgroCampo_POO.Lote" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAAAAAAACAgIAAACAAAACAAAAAEAAAgAAAAACAABA=</HashCode>
+      <FileName>Lote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroCampo_POO.LoteMaiz" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>LoteMaiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroCampo_POO.LoteSoja" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAA=</HashCode>
+      <FileName>LoteSoja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\bin\Debug\Cuenta_Bancaria.exe.config
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\bin\Debug\Cuenta_Bancaria.exe
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\bin\Debug\Cuenta_Bancaria.pdb
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\obj\Debug\Cuenta_Bancaria.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\obj\Debug\Cuenta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\obj\Debug\Cuenta_Bancaria.exe
+C:\Users\I-V-O\source\repos\Cuenta_Bancaria\Cuenta_Bancaria\obj\Debug\Cuenta_Bancaria.pdb

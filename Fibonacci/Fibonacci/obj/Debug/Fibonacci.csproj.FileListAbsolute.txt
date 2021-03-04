@@ -1,0 +1,14 @@
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\I-V-O\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
+G:\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+G:\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+G:\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+G:\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+G:\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

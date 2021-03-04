@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\bin\Debug\Tarea3Csharp.exe.config
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\bin\Debug\Tarea3Csharp.exe
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\bin\Debug\Tarea3Csharp.pdb
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\obj\Debug\Tarea3Csharp.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\obj\Debug\Tarea3Csharp.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\obj\Debug\Tarea3Csharp.exe
+C:\Users\I-V-O\source\repos\Tarea3Csharp\Tarea3Csharp\obj\Debug\Tarea3Csharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe.config
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\bin\Debug\clases y objetos.pdb
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csprojResolveAssemblyReference.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\obj\Debug\clases y objetos.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\clases y objetos\clases y objetos\obj\Debug\clases y objetos.pdb

@@ -1,0 +1,7 @@
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\bin\Debug\Terrenos_Modificados.exe.config
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\bin\Debug\Terrenos_Modificados.exe
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\bin\Debug\Terrenos_Modificados.pdb
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\obj\Debug\Terrenos_Modificados.csprojAssemblyReference.cache
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\obj\Debug\Terrenos_Modificados.csproj.CoreCompileInputs.cache
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\obj\Debug\Terrenos_Modificados.exe
+G:\source\repos\Terrenos_Modificados\Terrenos_Modificados\obj\Debug\Terrenos_Modificados.pdb

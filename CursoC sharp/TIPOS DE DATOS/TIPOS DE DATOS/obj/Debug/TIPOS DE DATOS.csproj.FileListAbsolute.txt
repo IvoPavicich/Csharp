@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\bin\Debug\TIPOS DE DATOS.exe.config
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\bin\Debug\TIPOS DE DATOS.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\bin\Debug\TIPOS DE DATOS.pdb
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.csprojResolveAssemblyReference.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.pdb

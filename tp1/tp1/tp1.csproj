@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{173AAEC4-8D2D-44E6-A537-7F46DC49A57D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>tp1</RootNamespace>
+    <AssemblyName>tp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ejecicio01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejecicio01.Designer.cs">
+      <DependentUpon>Ejecicio01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio02.Designer.cs">
+      <DependentUpon>Ejercicio02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio03.Designer.cs">
+      <DependentUpon>Ejercicio03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio05.Designer.cs">
+      <DependentUpon>Ejercicio05.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio06.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio06.Designer.cs">
+      <DependentUpon>Ejercicio06.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio07.Designer.cs">
+      <DependentUpon>Ejercicio07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio08.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio08.Designer.cs">
+      <DependentUpon>Ejercicio08.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio10.Designer.cs">
+      <DependentUpon>Ejercicio10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio11.Designer.cs">
+      <DependentUpon>Ejercicio11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio12.Designer.cs">
+      <DependentUpon>Ejercicio12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio13.Designer.cs">
+      <DependentUpon>Ejercicio13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio14.Designer.cs">
+      <DependentUpon>Ejercicio14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio15.Designer.cs">
+      <DependentUpon>Ejercicio15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio16.Designer.cs">
+      <DependentUpon>Ejercicio16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio17.Designer.cs">
+      <DependentUpon>Ejercicio17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio18.Designer.cs">
+      <DependentUpon>Ejercicio18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio19.Designer.cs">
+      <DependentUpon>Ejercicio19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio20.Designer.cs">
+      <DependentUpon>Ejercicio20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio21.Designer.cs">
+      <DependentUpon>Ejercicio21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio22.Designer.cs">
+      <DependentUpon>Ejercicio22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio23.Designer.cs">
+      <DependentUpon>Ejercicio23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio24.Designer.cs">
+      <DependentUpon>Ejercicio24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio25.Designer.cs">
+      <DependentUpon>Ejercicio25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio26.Designer.cs">
+      <DependentUpon>Ejercicio26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio28.Designer.cs">
+      <DependentUpon>Ejercicio28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio29.Designer.cs">
+      <DependentUpon>Ejercicio29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio30.Designer.cs">
+      <DependentUpon>Ejercicio30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio31.Designer.cs">
+      <DependentUpon>Ejercicio31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio32.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio32.Designer.cs">
+      <DependentUpon>Ejercicio32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio33.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio33.Designer.cs">
+      <DependentUpon>Ejercicio33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4.Designer.cs">
+      <DependentUpon>Ejercicio4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EJjercicio27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EJjercicio27.Designer.cs">
+      <DependentUpon>EJjercicio27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion1.Designer.cs">
+      <DependentUpon>Funcion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion2.Designer.cs">
+      <DependentUpon>Funcion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion3.Designer.cs">
+      <DependentUpon>Funcion3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion4.Designer.cs">
+      <DependentUpon>Funcion4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion5.Designer.cs">
+      <DependentUpon>Funcion5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion6.Designer.cs">
+      <DependentUpon>Funcion6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion7.Designer.cs">
+      <DependentUpon>Funcion7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion8.Designer.cs">
+      <DependentUpon>Funcion8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcion9.Designer.cs">
+      <DependentUpon>Funcion9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TicketEjercicio28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketEjercicio28.Designer.cs">
+      <DependentUpon>TicketEjercicio28.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ejecicio01.resx">
+      <DependentUpon>Ejecicio01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio02.resx">
+      <DependentUpon>Ejercicio02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio03.resx">
+      <DependentUpon>Ejercicio03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio05.resx">
+      <DependentUpon>Ejercicio05.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio06.resx">
+      <DependentUpon>Ejercicio06.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio07.resx">
+      <DependentUpon>Ejercicio07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio08.resx">
+      <DependentUpon>Ejercicio08.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio10.resx">
+      <DependentUpon>Ejercicio10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio11.resx">
+      <DependentUpon>Ejercicio11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio12.resx">
+      <DependentUpon>Ejercicio12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio13.resx">
+      <DependentUpon>Ejercicio13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio14.resx">
+      <DependentUpon>Ejercicio14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio15.resx">
+      <DependentUpon>Ejercicio15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio16.resx">
+      <DependentUpon>Ejercicio16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio17.resx">
+      <DependentUpon>Ejercicio17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio18.resx">
+      <DependentUpon>Ejercicio18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio19.resx">
+      <DependentUpon>Ejercicio19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio20.resx">
+      <DependentUpon>Ejercicio20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio21.resx">
+      <DependentUpon>Ejercicio21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio22.resx">
+      <DependentUpon>Ejercicio22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio23.resx">
+      <DependentUpon>Ejercicio23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio24.resx">
+      <DependentUpon>Ejercicio24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio25.resx">
+      <DependentUpon>Ejercicio25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio26.resx">
+      <DependentUpon>Ejercicio26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio28.resx">
+      <DependentUpon>Ejercicio28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio29.resx">
+      <DependentUpon>Ejercicio29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio30.resx">
+      <DependentUpon>Ejercicio30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio31.resx">
+      <DependentUpon>Ejercicio31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio32.resx">
+      <DependentUpon>Ejercicio32.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio33.resx">
+      <DependentUpon>Ejercicio33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4.resx">
+      <DependentUpon>Ejercicio4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EJjercicio27.resx">
+      <DependentUpon>EJjercicio27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion1.resx">
+      <DependentUpon>Funcion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion2.resx">
+      <DependentUpon>Funcion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion3.resx">
+      <DependentUpon>Funcion3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion4.resx">
+      <DependentUpon>Funcion4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion5.resx">
+      <DependentUpon>Funcion5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion6.resx">
+      <DependentUpon>Funcion6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion7.resx">
+      <DependentUpon>Funcion7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion8.resx">
+      <DependentUpon>Funcion8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcion9.resx">
+      <DependentUpon>Funcion9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TicketEjercicio28.resx">
+      <DependentUpon>TicketEjercicio28.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

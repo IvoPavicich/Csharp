@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\bin\Debug\TrabajadoresABM.exe.config
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\bin\Debug\TrabajadoresABM.exe
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\bin\Debug\TrabajadoresABM.pdb
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\obj\Debug\TrabajadoresABM.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\obj\Debug\TrabajadoresABM.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\obj\Debug\TrabajadoresABM.exe
+C:\Users\I-V-O\source\repos\TrabajadoresABM\TrabajadoresABM\obj\Debug\TrabajadoresABM.pdb

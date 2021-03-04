@@ -1,0 +1,10 @@
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\bin\Debug\CalcularNomina.exe.config
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\bin\Debug\CalcularNomina.exe
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\bin\Debug\CalcularNomina.pdb
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.csprojResolveAssemblyReference.cache
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.Form1.resources
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.Properties.Resources.resources
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.csproj.GenerateResource.Cache
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.exe
+C:\Users\I-V-O\source\repos\CalcularNomina\CalcularNomina\obj\Debug\CalcularNomina.pdb

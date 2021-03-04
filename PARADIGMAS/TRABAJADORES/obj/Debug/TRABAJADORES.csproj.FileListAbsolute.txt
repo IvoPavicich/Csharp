@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\obj\Debug\TRABAJADORES.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\obj\Debug\TRABAJADORES.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\bin\Debug\TRABAJADORES.exe.config
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\bin\Debug\TRABAJADORES.exe
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\bin\Debug\TRABAJADORES.pdb
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\obj\Debug\TRABAJADORES.exe
+C:\Users\I-V-O\source\repos\PARADIGMAS\TRABAJADORES\obj\Debug\TRABAJADORES.pdb

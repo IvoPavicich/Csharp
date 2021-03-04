@@ -1,0 +1,2 @@
+C:\Users\I-V-O\source\repos\Venta_Soles\Venta_Soles\obj\Debug\Venta_Soles.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Venta_Soles\Venta_Soles\obj\Debug\Venta_Soles.csproj.CoreCompileInputs.cache

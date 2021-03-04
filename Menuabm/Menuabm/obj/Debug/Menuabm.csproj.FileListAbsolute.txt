@@ -1,0 +1,7 @@
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\obj\Debug\Menuabm.csprojResolveAssemblyReference.cache
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\obj\Debug\Menuabm.csproj.CoreCompileInputs.cache
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\bin\Debug\Menuabm.exe.config
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\bin\Debug\Menuabm.exe
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\bin\Debug\Menuabm.pdb
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\obj\Debug\Menuabm.exe
+c:\users\i-v-o\source\repos\Menuabm\Menuabm\obj\Debug\Menuabm.pdb

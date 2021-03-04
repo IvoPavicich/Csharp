@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\bin\Debug\Udemy secuencial.exe.config
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\bin\Debug\Udemy secuencial.exe
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\bin\Debug\Udemy secuencial.pdb
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\obj\Debug\Udemy secuencial.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\obj\Debug\Udemy secuencial.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\obj\Debug\Udemy secuencial.exe
+C:\Users\I-V-O\source\repos\Udemy secuencial\Udemy secuencial\obj\Debug\Udemy secuencial.pdb

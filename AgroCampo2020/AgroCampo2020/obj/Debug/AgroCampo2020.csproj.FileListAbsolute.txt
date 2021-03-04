@@ -1,0 +1,7 @@
+G:\source\repos\AgroCampo2020\AgroCampo2020\bin\Debug\AgroCampo2020.exe.config
+G:\source\repos\AgroCampo2020\AgroCampo2020\bin\Debug\AgroCampo2020.exe
+G:\source\repos\AgroCampo2020\AgroCampo2020\bin\Debug\AgroCampo2020.pdb
+G:\source\repos\AgroCampo2020\AgroCampo2020\obj\Debug\AgroCampo2020.csprojAssemblyReference.cache
+G:\source\repos\AgroCampo2020\AgroCampo2020\obj\Debug\AgroCampo2020.csproj.CoreCompileInputs.cache
+G:\source\repos\AgroCampo2020\AgroCampo2020\obj\Debug\AgroCampo2020.exe
+G:\source\repos\AgroCampo2020\AgroCampo2020\obj\Debug\AgroCampo2020.pdb

@@ -1,0 +1,10 @@
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\bin\Debug\GestionMuseo.exe.config
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\bin\Debug\GestionMuseo.exe
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\bin\Debug\GestionMuseo.pdb
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.csprojResolveAssemblyReference.cache
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.Form1.resources
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.Properties.Resources.resources
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.csproj.GenerateResource.Cache
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.csproj.CoreCompileInputs.cache
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.exe
+c:\users\i-v-o\source\repos\GestionMuseo\GestionMuseo\obj\Debug\GestionMuseo.pdb

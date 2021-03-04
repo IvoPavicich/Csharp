@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\bin\Debug\Compra_Venta.exe.config
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\bin\Debug\Compra_Venta.exe
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\bin\Debug\Compra_Venta.pdb
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\obj\Debug\Compra_Venta.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\obj\Debug\Compra_Venta.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\obj\Debug\Compra_Venta.exe
+C:\Users\I-V-O\source\repos\Compra_Venta\Compra_Venta\obj\Debug\Compra_Venta.pdb

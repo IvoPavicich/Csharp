@@ -1,0 +1,14 @@
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\bin\Debug\Tienda_Fotografica.exe.config
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\bin\Debug\Tienda_Fotografica.exe
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\bin\Debug\Tienda_Fotografica.pdb
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.exe
+C:\Users\I-V-O\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.pdb
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\bin\Debug\Tienda_Fotografica.exe.config
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\bin\Debug\Tienda_Fotografica.exe
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\bin\Debug\Tienda_Fotografica.pdb
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.csprojAssemblyReference.cache
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.csproj.CoreCompileInputs.cache
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.exe
+G:\source\repos\Tienda_Fotografica\Tienda_Fotografica\obj\Debug\Tienda_Fotografica.pdb

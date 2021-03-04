@@ -1,0 +1,7 @@
+G:\source\repos\Tienda2021\Tienda2021\bin\Debug\Tienda2021.exe.config
+G:\source\repos\Tienda2021\Tienda2021\bin\Debug\Tienda2021.exe
+G:\source\repos\Tienda2021\Tienda2021\bin\Debug\Tienda2021.pdb
+G:\source\repos\Tienda2021\Tienda2021\obj\Debug\Tienda2021.csprojAssemblyReference.cache
+G:\source\repos\Tienda2021\Tienda2021\obj\Debug\Tienda2021.csproj.CoreCompileInputs.cache
+G:\source\repos\Tienda2021\Tienda2021\obj\Debug\Tienda2021.exe
+G:\source\repos\Tienda2021\Tienda2021\obj\Debug\Tienda2021.pdb

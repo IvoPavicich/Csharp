@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\bin\Debug\AgroCampo_POO.exe.config
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\bin\Debug\AgroCampo_POO.exe
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\bin\Debug\AgroCampo_POO.pdb
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\obj\Debug\AgroCampo_POO.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\obj\Debug\AgroCampo_POO.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\obj\Debug\AgroCampo_POO.exe
+C:\Users\I-V-O\source\repos\AgroCampo_POO\AgroCampo_POO\obj\Debug\AgroCampo_POO.pdb

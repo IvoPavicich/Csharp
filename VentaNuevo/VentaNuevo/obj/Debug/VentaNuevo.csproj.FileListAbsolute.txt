@@ -1,0 +1,14 @@
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\bin\Debug\VentaNuevo.exe.config
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\bin\Debug\VentaNuevo.exe
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\bin\Debug\VentaNuevo.pdb
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.exe
+C:\Users\I-V-O\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.pdb
+G:\source\repos\VentaNuevo\VentaNuevo\bin\Debug\VentaNuevo.exe.config
+G:\source\repos\VentaNuevo\VentaNuevo\bin\Debug\VentaNuevo.exe
+G:\source\repos\VentaNuevo\VentaNuevo\bin\Debug\VentaNuevo.pdb
+G:\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.csprojAssemblyReference.cache
+G:\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.csproj.CoreCompileInputs.cache
+G:\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.exe
+G:\source\repos\VentaNuevo\VentaNuevo\obj\Debug\VentaNuevo.pdb

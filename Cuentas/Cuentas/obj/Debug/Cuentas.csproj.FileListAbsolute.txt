@@ -1,0 +1,14 @@
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\bin\Debug\Cuentas.exe.config
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\bin\Debug\Cuentas.exe
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\bin\Debug\Cuentas.pdb
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.exe
+C:\Users\I-V-O\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.pdb
+G:\source\repos\Cuentas\Cuentas\bin\Debug\Cuentas.exe.config
+G:\source\repos\Cuentas\Cuentas\bin\Debug\Cuentas.exe
+G:\source\repos\Cuentas\Cuentas\bin\Debug\Cuentas.pdb
+G:\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.csprojAssemblyReference.cache
+G:\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.csproj.CoreCompileInputs.cache
+G:\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.exe
+G:\source\repos\Cuentas\Cuentas\obj\Debug\Cuentas.pdb

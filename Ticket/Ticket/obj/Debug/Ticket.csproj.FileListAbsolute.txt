@@ -1,0 +1,7 @@
+G:\source\repos\Ticket\Ticket\bin\Debug\Ticket.exe.config
+G:\source\repos\Ticket\Ticket\bin\Debug\Ticket.exe
+G:\source\repos\Ticket\Ticket\bin\Debug\Ticket.pdb
+G:\source\repos\Ticket\Ticket\obj\Debug\Ticket.csprojAssemblyReference.cache
+G:\source\repos\Ticket\Ticket\obj\Debug\Ticket.csproj.CoreCompileInputs.cache
+G:\source\repos\Ticket\Ticket\obj\Debug\Ticket.exe
+G:\source\repos\Ticket\Ticket\obj\Debug\Ticket.pdb

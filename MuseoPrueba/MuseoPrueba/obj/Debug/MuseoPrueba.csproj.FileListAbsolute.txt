@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\bin\Debug\MuseoPrueba.exe.config
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\bin\Debug\MuseoPrueba.exe
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\bin\Debug\MuseoPrueba.pdb
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\obj\Debug\MuseoPrueba.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\obj\Debug\MuseoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\obj\Debug\MuseoPrueba.exe
+C:\Users\I-V-O\source\repos\MuseoPrueba\MuseoPrueba\obj\Debug\MuseoPrueba.pdb

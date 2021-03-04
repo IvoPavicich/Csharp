@@ -1,0 +1,14 @@
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\bin\Debug\Terrenos.exe.config
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\bin\Debug\Terrenos.exe
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\bin\Debug\Terrenos.pdb
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.exe
+C:\Users\I-V-O\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.pdb
+G:\source\repos\Terrenos\Terrenos\bin\Debug\Terrenos.exe.config
+G:\source\repos\Terrenos\Terrenos\bin\Debug\Terrenos.exe
+G:\source\repos\Terrenos\Terrenos\bin\Debug\Terrenos.pdb
+G:\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.csprojAssemblyReference.cache
+G:\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.csproj.CoreCompileInputs.cache
+G:\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.exe
+G:\source\repos\Terrenos\Terrenos\obj\Debug\Terrenos.pdb

@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\bin\Debug\Tarea4Csharp.exe.config
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\bin\Debug\Tarea4Csharp.exe
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\bin\Debug\Tarea4Csharp.pdb
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\obj\Debug\Tarea4Csharp.csprojAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\obj\Debug\Tarea4Csharp.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\obj\Debug\Tarea4Csharp.exe
+C:\Users\I-V-O\source\repos\Tarea4Csharp\Tarea4Csharp\obj\Debug\Tarea4Csharp.pdb

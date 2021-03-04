@@ -1,0 +1,11 @@
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\I-V-O\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.Frmoperaciones.resources

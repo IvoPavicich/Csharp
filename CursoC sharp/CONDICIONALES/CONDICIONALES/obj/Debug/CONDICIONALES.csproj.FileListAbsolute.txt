@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\bin\Debug\CONDICIONALES.exe.config
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\bin\Debug\CONDICIONALES.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\bin\Debug\CONDICIONALES.pdb
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\obj\Debug\CONDICIONALES.csprojResolveAssemblyReference.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\obj\Debug\CONDICIONALES.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\obj\Debug\CONDICIONALES.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\CONDICIONALES\CONDICIONALES\obj\Debug\CONDICIONALES.pdb

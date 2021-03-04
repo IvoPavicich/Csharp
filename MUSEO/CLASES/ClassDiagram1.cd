@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CLASES.ObraArte" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQACAQgAAAAAAAAAAAAABAgAAAAAAEAAIAAA=</HashCode>
+      <FileName>ObraArte.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Mantenimiento" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CLASES.Escultura" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Escultura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLASES.Cuadro" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuadro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLASES.Mantenimiento" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAACAAAQAAAAA=</HashCode>
+      <FileName>Mantenimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLASES.Museo" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Museo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ObraArte" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CLASES.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

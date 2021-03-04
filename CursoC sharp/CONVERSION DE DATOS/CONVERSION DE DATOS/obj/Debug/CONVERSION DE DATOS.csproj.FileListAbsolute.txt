@@ -1,0 +1,6 @@
+C:\Users\I-V-O\source\repos\CursoC sharp\CONVERSION DE DATOS\CONVERSION DE DATOS\bin\Debug\CONVERSION DE DATOS.exe.config
+C:\Users\I-V-O\source\repos\CursoC sharp\CONVERSION DE DATOS\CONVERSION DE DATOS\bin\Debug\CONVERSION DE DATOS.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\CONVERSION DE DATOS\CONVERSION DE DATOS\bin\Debug\CONVERSION DE DATOS.pdb
+C:\Users\I-V-O\source\repos\CursoC sharp\CONVERSION DE DATOS\CONVERSION DE DATOS\obj\Debug\CONVERSION DE DATOS.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\CursoC sharp\CONVERSION DE DATOS\CONVERSION DE DATOS\obj\Debug\CONVERSION DE DATOS.exe
+C:\Users\I-V-O\source\repos\CursoC sharp\CONVERSION DE DATOS\CONVERSION DE DATOS\obj\Debug\CONVERSION DE DATOS.pdb

@@ -1,0 +1,7 @@
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe.config
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.exe
+C:\Users\I-V-O\source\repos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
